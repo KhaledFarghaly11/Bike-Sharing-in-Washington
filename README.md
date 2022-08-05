@@ -16,6 +16,7 @@ a virtual sensor network that can be used for sensing mobility in the city. Henc
 events in the city could be detected via monitoring these data.
 
 =========================================
+
 Data Set
 =========================================
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
